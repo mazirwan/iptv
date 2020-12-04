@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7c/Netmediatama.png/400px-Netmediatama.png" group-title="INDONESIA;HIBURAN", NET TV
-#plugin://plugin.video.youtube/play/?video_id=MSQhwpYQbtQ
+plugin://plugin.video.youtube/play/?video_id=MSQhwpYQbtQ
 #EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png" group-title="INDONESIA;BERITA",Kompas TV
 plugin://plugin.video.youtube/play/?video_id=gIB2egm7tL8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="INDONESIA;BERITA",Metro TV HD
